@@ -34,7 +34,7 @@ A pre-clinical machine-learning framework combining **EEG, EMG, IMU, and force-p
 - Random-forest SHAP analysis for model interpretation
 - Training-fold-only preprocessing to reduce information leakage
 
-[View the research repository →](https://github.com/siamabdurrahman/Gait-assessment-and-telerehabilitation)
+[View the research repository →](https://github.com/siamabdurrahman/multimodal-gait-xai-telerehabilitation)
 
 ### Privacy-preserving IoT security and guarded AI remediation
 
@@ -52,10 +52,10 @@ This work explores how AI-assisted security operations can remain accountable an
 
 | Project | Research contribution | Core methods |
 | --- | --- | --- |
-| [Multimodal Gait Assessment](https://github.com/siamabdurrahman/Gait-assessment-and-telerehabilitation) | Explainable sensor-fusion research for telerehabilitation | EEG, EMG, IMU, force plate, SHAP, subject-wise CV |
-| [Explainable Brain Tumour Classification](https://github.com/siamabdurrahman/Brain-Tumour-Classification) | Academic MRI classification pipeline with visual explanations | CNN, transfer learning, Grad-CAM |
-| [Slow Eye Movement Detection](https://github.com/siamabdurrahman/Research-on-Slow-Eye-Movement-Based-on-KNN-Algorithm) | Reproducible KNN workflow associated with a TechRxiv preprint | Python, MATLAB data, KNN, multiclass metrics |
-| [Applied AI and Data Intelligence](https://github.com/siamabdurrahman/AI-for-Data-Intelligence---Canterbury-P18734-) | Healthcare ML, dimensionality reduction, and XAI portfolio | Python, scikit-learn, PCA, classification, XAI |
+| [Multimodal Gait Assessment](https://github.com/siamabdurrahman/multimodal-gait-xai-telerehabilitation) | Explainable sensor-fusion research for telerehabilitation | EEG, EMG, IMU, force plate, SHAP, subject-wise CV |
+| [Explainable Brain Tumour Classification](https://github.com/siamabdurrahman/explainable-brain-tumour-mri) | Academic MRI classification pipeline with visual explanations | CNN, transfer learning, Grad-CAM |
+| [Slow Eye Movement Detection](https://github.com/siamabdurrahman/slow-eye-movement-knn) | Reproducible KNN workflow associated with a TechRxiv preprint | Python, MATLAB data, KNN, multiclass metrics |
+| [Applied AI and Data Intelligence](https://github.com/siamabdurrahman/applied-ai-data-intelligence) | Healthcare ML, dimensionality reduction, and XAI portfolio | Python, scikit-learn, PCA, classification, XAI |
 
 ## Publications
 
